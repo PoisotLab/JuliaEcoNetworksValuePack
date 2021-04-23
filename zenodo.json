@@ -1,0 +1,27 @@
+{
+   "title": "Mangal.jl and EcologicalNetworks.jl: Two complementary packages for analyzing ecological networks in Julia",
+   "description": "Do NOT use these packages - they are for JOSS archival purpose only.",
+   "upload_type": "software",
+   "creators": [
+      {
+         "affiliation": [
+            "Université de Montréal",
+            "Université de Sherbrooke"
+         ],
+         "name": "Banville, Francis",
+         "orcid": "0000-0001-9051-0597"
+      },
+      {
+         "affiliation": "Université de Sherbrooke",
+         "name": "Vissault, Steve",
+         "orcid": "0000-0002-0866-4376"
+      },
+      {
+         "affiliation": "Université de Montréal",
+         "name": "Poisot, Timothée",
+         "orcid": "0000-0002-0735-5184"
+      }
+   ],
+   "access_right": "open",
+   "license": "mit-license"
+}
